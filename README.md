@@ -1,6 +1,8 @@
 # EM-Robot
 
-<h1>An Electromagnet Robot that picks up scrap pieces of metal. The robot combines, Arduino, Raspberry Pi with Python and Java in order to move around, move the magents up and down, energize/deenergize the magnets, and to sense if an object is too close and stops. </h1>
+An Electromagnet Robot that picks up scrap pieces of metal. The robot combines, Arduino, Raspberry Pi with Python and Java in order to move around, move the magents up and down, energize/deenergize the magnets, and to sense if an object is too close and stops. 
+
+
 Python in two different ways in order for the robot to be controlled remotely
 
 <ul>

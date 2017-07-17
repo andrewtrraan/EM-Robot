@@ -8,5 +8,5 @@ Python was utilized in two different ways in order for the robot to be controlle
 <ul>
 
   <li>Wireless keybaord method which used Pygame and read what keys were pressed and sent certain serial bits to the Arduino to allow the robot to perform certain commands</li> 
-  <li>Java app method which had the app send web requests to a Flask server that sent certain serail bits tot he Arduino to allow the robot to perform certain commands</li>
+  <li>Java app method which had the app send web requests to a Flask server that sent certain serail bits tot he Arduino and in turn allow the robot to perform certain commands.</li>
 </ul>

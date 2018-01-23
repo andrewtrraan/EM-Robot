@@ -16,5 +16,5 @@ Arduino was utilized by:
 <ul>
   <li>Energzing and de-energizing the electromagnets to pick up the scrap pieces of metal</li>
   <li>Control the motor control boards that allowed the robot to move</ul>
-  <li>Control the servo motors that moved the arms up and down</li>
+    <li>Control the servo motors that moved the arms up and down</li>
 </ul>
